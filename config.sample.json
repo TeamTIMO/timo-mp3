@@ -3,6 +3,5 @@
     "host": "mqtt://localhost",
     "port": 1883,
     "topic":"timo/data"
-  },
-  "voice": "kallpc16k"
+  }
 }
