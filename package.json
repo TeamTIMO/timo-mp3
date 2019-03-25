@@ -1,0 +1,15 @@
+{
+  "name": "timo-tts",
+  "version": "1.0.0",
+  "description": "Spielt auf der Soundkarte die mp3 ab, die vom mqtt-broker kommt, wenn der type \"mp3\" ist.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.18.8",
+    "omxplayer": "^1.0.0"
+  }
+}
